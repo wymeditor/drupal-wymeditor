@@ -22,6 +22,6 @@ http://forum.wymeditor.org/
 
 
 Copyright (c) 2005-2009<br />
-Jean-Francois Hovinne, http://www.wymeditor.org/
+Jean-Francois Hovinne, http://www.wymeditor.org/<br />
 Dual licensed under the MIT (MIT-license.txt)<br />
 and GPL (GPL-license.txt) licenses.
