@@ -15,13 +15,11 @@ In order to use WYMeditor in Drupal, using the Wysiwyg API module:
 
 Useful info
 ============
-For more information, please read the documentation, available at:<br /> https://github.com/wymeditor/wymeditor/wiki
+For more information, please read the documentation, available at:<br /> 
+https://github.com/wymeditor/wymeditor/wiki
 
 If you need help, feel free to create an account on the forum and ask your question.<br />
 http://forum.wymeditor.org/
 
-
-Copyright (c) 2005-2009<br />
-Jean-Francois Hovinne, http://www.wymeditor.org/ <br />
-Dual licensed under the MIT (MIT-license.txt)<br />
-and GPL (GPL-license.txt) licenses.
+Copyright (c) 2005-2009 Jean-Francois Hovinne, http://www.wymeditor.org/ <br />
+Dual licensed under the MIT (MIT-license.txt) and GPL (GPL-license.txt) licenses.
