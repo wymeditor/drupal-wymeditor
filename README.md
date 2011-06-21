@@ -11,19 +11,17 @@ In order to use WYMeditor in Drupal, using the Wysiwyg API module:
 5. Extract the WYMeditor package, and copy the resulting wymeditor folder in to the modules/wysiwyg folder.
 6. In Drupal admin at Home > Administer > Site configuration > Wysiwyg, enable WYMeditor in the profile(s) of your choice.
 
-That's it!
+**That's it!**
 
 Useful info
 ============
-For more information, please read the documentation, available at:
+For more information, please read the documentation, available at:<br /> https://github.com/wymeditor/wymeditor/wiki
 
-https://github.com/wymeditor/wymeditor/wiki
-
-If you need help, feel free to create an account on the forum and ask your question.
-
+If you need help, feel free to create an account on the forum and ask your question.<br />
 http://forum.wymeditor.org/
 
 
-Copyright (c) 2005-2009 Jean-Francois Hovinne, http://www.wymeditor.org/
-
-Dual licensed under the MIT (MIT-license.txt) and GPL (GPL-license.txt) licenses.
+Copyright (c) 2005-2009<br />
+Jean-Francois Hovinne, http://www.wymeditor.org/
+Dual licensed under the MIT (MIT-license.txt)<br />
+and GPL (GPL-license.txt) licenses.
